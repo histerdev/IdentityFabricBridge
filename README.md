@@ -6,7 +6,7 @@ Un puente fabric-identity para proyectos que no tienen architectury, con esto pu
 
 #### 1- Instalar [bkd0ridentitybridge-fabric-1.x.x.jar](https://github.com/histerdev/IdentityFabricBridge/releases/download/1.20.1/bkd0ridentitybridge-fabric-1.0.0.jar).
 #### 2- Instalar [Identity fix (Morph)](https://www.curseforge.com/minecraft/mc-mods/identity-fix-morph/files/all?page=1&pageSize=20).
-#### 3- Instalar omega-config-1.2.3-1.18.jar [omega-config-1.2.3-1.18.jar](https://www.curseforge.com/minecraft/mc-mods/omega-config/files/3612206)
+#### 3- Instalar [omega-config-1.2.3-1.18.jar](https://www.curseforge.com/minecraft/mc-mods/omega-config/files/3612206)
 (ES IMPORTANTE QUE SEA 1.18!)
 
 Deberia quedar algo asi:
