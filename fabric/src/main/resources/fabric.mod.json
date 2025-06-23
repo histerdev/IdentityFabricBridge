@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "bkd0ridentitybridge",
+  "version": "${version}",
+  "name": "BKD0RIdentityBridge",
+  "description": "A bridge mod for 'Identity' made by backd00r https://x.com/backd00r__ (This mod don't do anything by it self)",
+  "authors": [
+    "Backd00r"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/bkd0ridentitybridge/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.backd00r.identitybridge.fabric.ExampleModFabric"
+    ],
+    "client": [
+      "dev.backd00r.identitybridge.fabric.client.ExampleModFabricClient"
+    ]
+  },
+  "mixins": [
+    "bkd0ridentitybridge.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.20.1",
+    "architectury": "*",
+    "identity": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

@@ -1,0 +1,19 @@
+[Architectury Transformer DEBUG] 
+[Architectury Transformer DEBUG] ============================
+[Architectury Transformer DEBUG] Transforming from C:\Users\h1495\Desktop\bkd0ridentity\common\build\devlibs\bkd0ridentitybridge-common-1.0.0-dev.jar to C:\Users\h1495\Desktop\bkd0ridentity\common\build\libs\bkd0ridentitybridge-common-1.0.0-transformProductionFabric.jar
+[Architectury Transformer DEBUG] ============================
+[Architectury Transformer DEBUG] 
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from C:\Users\h1495\Desktop\bkd0ridentity\common\build\devlibs\bkd0ridentitybridge-common-1.0.0-dev.jar to C:\Users\h1495\Desktop\bkd0ridentity\common\build\libs\bkd0ridentitybridge-common-1.0.0-transformProductionFabric.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapMixinVariables@42407669
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@1f8b54a6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59afc9b9
+[Architectury Transformer DEBUG]  - AddRefmapName(enabled=() -> kotlin.Boolean)
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@499dbd64
+[Architectury Transformer DEBUG] Transforming from C:\Users\h1495\Desktop\bkd0ridentity\common\build\devlibs\bkd0ridentitybridge-common-1.0.0-dev.jar to C:\Users\h1495\Desktop\bkd0ridentity\common\build\libs\bkd0ridentitybridge-common-1.0.0-transformProductionFabric.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing dev/backd00r/identitybridge/ExampleMod with maxs=true frames=true
+[Architectury Transformer DEBUG] Checking whether /bkd0ridentitybridge.mixins.json is a mixin config.
+[Architectury Transformer DEBUG] Found mixin config(s): /bkd0ridentitybridge.mixins.json
+[Architectury Transformer DEBUG] Injecting bkd0ridentitybridge-common-common-refmap.json to /bkd0ridentitybridge.mixins.json
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\h1495\Desktop\bkd0ridentity\common\build\libs\bkd0ridentitybridge-common-1.0.0-transformProductionFabric.jar
+[Architectury Transformer] Transformed jar with 5 transformer(s) in 98.03 ms
