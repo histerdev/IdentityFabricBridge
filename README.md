@@ -70,7 +70,7 @@ public class Main implements ModInitializer {
     @Override
     public void onInitialize() {
 
-        IdentityBridgeApi bridgeApi = ExampleModFabric.API; // ignora el ExampleModFabric NFJDSNFJD
+        IdentityBridgeApi bridgeApi = ExampleModFabric.API; // ignora el nombre "ExampleModFabric" NFJDSNFJD
 
         if (bridgeApi != null) {
             // aqui se registra
