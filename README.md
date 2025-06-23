@@ -2,6 +2,7 @@
 
 <h1 align="center">Puente Fabric-Identity</h1>
 Un puente fabric-identity para proyectos que no tienen architectury, con esto puedes hacer habilidades custom para tus entidades custom, puedes transformarte mediante codigo, etc.
+
 ## Implementacion
 
 #### 1- Instalar [bkd0ridentitybridge-fabric-1.x.x.jar](https://github.com/histerdev/IdentityFabricBridge/releases/download/1.20.1/bkd0ridentitybridge-fabric-1.0.0.jar).
