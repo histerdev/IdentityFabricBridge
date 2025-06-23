@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Puente Fabric-Identity</h1>
----
+
 ## Implementacion
- #### 1- Instalar bkd0ridentitybridge-fabric-1.x.x.jar
+#### 1- Instalar bkd0ridentitybridge-fabric-1.x.x.jar
 #### 2- Instalar identity-x.x.x-fabric.jar
 #### 3- Instalar omega-config-1.2.3-1.18.jar
 (ES IMPORTANTE QUE SEA 1.18!)
@@ -88,12 +88,11 @@ ServerPlayerEntity player = context.getSource().getPlayer();
 IdentityBridgeApi bridgeApi = ExampleModFabric.API;
 
         if (bridgeApi != null && player != null) {
-            // Llama a la transformación usando el EntityType de tu entidad.
             bridgeApi.transformInto(player, ModEntities.MI_ENTIDAD_PERSONALIZADA);
             context.getSource().sendFeedback(() -> Text.literal("¡Transformado!"), false);
-            return 1; // Éxito
+            return 1;
         }
-        return 0; // Fallo
+        return 0;
     }));
 });
 ```
